@@ -64,7 +64,7 @@ StudentPlacementManagementSystem/
 ### 1. Clone the repository
 
 ```bash
-git clone [https://github.com/aimadhasan09-ops/student-placement-management-system.git](https://github.com/your-username/student-placement-management-system.git)
+git clone [https://github.com/aimadhasan09-ops/student-placement-management-system.git](https://github.com/aimadhasan09-ops/student-placement-management-system.git)
 ```
 
 ### 2. Open the project folder
